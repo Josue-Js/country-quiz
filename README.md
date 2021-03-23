@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://country-quiz-liard.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/josue-js/quiz-country}">
+    <a href="https://github.com/josue-js/country-quiz">
       Solution
     </a>
     <span> | </span>
@@ -42,7 +42,7 @@
 Country questionnaire web page built with React
 and Typescript. The app contains up to 250 randomly generated questions of a random type.
 
-- Where can I see your demo?
+- https://country-quiz-liard.vercel.app/
 
 
 ### Built With
